@@ -1,0 +1,6 @@
+import csv
+L=[["Name","Marks"],["Amit","83"],["Suman","67"],["Shivam","71"],["Rumi","94"]]
+file=open("prg.csv","w")
+with file:
+    wrt=csv.writer(file)
+    wrt.writerows(L)

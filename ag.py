@@ -1,0 +1,7 @@
+f= open("IMG-20220525-WA0060.jpg","rb")
+x = f.read()
+f.close()
+fname = input("Enter file name=")
+f2=open(fname+".jpg", "wb")
+f2.write(x)
+f2.close()

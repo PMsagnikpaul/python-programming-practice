@@ -1,0 +1,6 @@
+{'P_ID': '1', 'PNAME': 'phone', 'PCOM': 'realme', 'PRICE': '10000'}
+{'P_ID': '2', 'PNAME': 'tab', 'PCOM': 'samsung', 'PRICE': '15000'}
+{'P_ID': '3', 'PNAME': 'laptop', 'PCOM': 'dell', 'PRICE': '40000'}
+{'P_ID': '4', 'PNAME': 'computer', 'PCOM': 'samsung', 'PRICE': '30000'}
+{'P_ID': '5', 'PNAME': 'headphone', 'PCOM': 'boat', 'PRICE': '800'}
+{'P_ID': '6', 'PNAME': 'charger', 'PCOM': 'dell', 'PRICE': '1000'}
